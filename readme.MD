@@ -1,6 +1,8 @@
 # cafe
 
 ## menu
-* Iced list
+## Iced list
 * cocoa coffee
 
+## Hot list
+* chocolate coffee
